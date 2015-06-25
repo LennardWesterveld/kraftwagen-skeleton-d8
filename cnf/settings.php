@@ -265,7 +265,7 @@ $config_directories = array();
  *
  * @see install_select_profile()
  */
-$settings['install_profile'] = 'narrowscape';
+$settings['install_profile'] = '***MACHINE_NAME***';
 
 /**
  * Salt for one-time login links, cancel links, form tokens, etc.
