@@ -15,3 +15,4 @@ $databases = array (
 );
 
 $drupal_hash_salt = 'SOME_REALLY_RANDOM_STRING';
+$settings['hash_salt']  = $drupal_hash_salt;
