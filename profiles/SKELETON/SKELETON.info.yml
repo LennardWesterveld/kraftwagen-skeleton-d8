@@ -1,0 +1,38 @@
+name: Profile
+type: profile
+description: 'Description of your profile.'
+core: 8.x
+
+# Required modules
+dependencies:
+  - node
+  - history
+  - block
+  - breakpoint
+  - color
+  - config
+  - comment
+  - contextual
+  - contact
+  - custom_block
+  - edit
+  - help
+  - image
+  - menu
+  - number
+  - options
+  - path
+  - taxonomy
+  - dblog
+  - responsive_preview
+  - search
+  - shortcut
+  - toolbar
+  - overlay
+  - field_ui
+  - file
+  - rdf
+  - views
+  - views_ui
+  - editor
+  - ckeditor
