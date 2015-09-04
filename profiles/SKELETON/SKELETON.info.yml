@@ -9,33 +9,34 @@ dependencies:
   - history
   - block
   - breakpoint
+  - ckeditor
   - color
   - config
   - comment
   - contextual
   - contact
-  - custom_block
-  - edit
+  - menu_link_content
+  - datetime
+  - block_content
+  - quickedit
+  - editor
+  - entity_reference
   - help
   - image
-  - menu
-  - number
+  - menu_ui
   - options
   - path
+  - page_cache
   - taxonomy
   - dblog
-  - responsive_preview
   - search
   - shortcut
   - toolbar
-  - overlay
   - field_ui
   - file
   - rdf
   - views
   - views_ui
-  - editor
-  - ckeditor
 themes:
   - bartik
   - seven
