@@ -1,6 +1,6 @@
-name: Profile
+name: ***HUMAN_NAME***
 type: profile
-description: 'Description of your profile.'
+description: '***HUMAN_NAME***'
 core: 8.x
 
 # Required modules
@@ -36,3 +36,6 @@ dependencies:
   - views_ui
   - editor
   - ckeditor
+themes:
+  - bartik
+  - seven
