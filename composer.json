@@ -28,7 +28,7 @@
         "drupal/devel": "8.1.*@dev",
         "drupal/token": "8.1.*@dev",
 
-        "drupal/paragraphs": "8.1.0-alpha2"
+        "drupal/paragraphs": "8.x-1.x-dev"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
